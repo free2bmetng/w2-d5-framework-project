@@ -97,3 +97,10 @@ nav a:hover {
   background-color: rgb(204, 2, 29);
   border-radius: 1rem;
 }
+
+section{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 12.5rem;
+}
